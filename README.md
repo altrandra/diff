@@ -11,7 +11,7 @@ Utilizing field tags and reflection, it is able to compare two structures of the
 ## Installation
 
 ```
-go get github.com/r3labs/diff
+go get github.com/altrandra/diff
 ```
 
 ## Changelog Format
